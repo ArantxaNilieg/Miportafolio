@@ -1,0 +1,150 @@
+body {
+    font-family: 'Muli', sans-serif;
+	font-weight: 500;
+	font-size: 14px;
+	color: #373A3C;
+	margin: 0;
+}
+.container {
+	max-width: 100%;
+	color: #000000;
+}
+
+.header-span {
+	font-family: 'Poppins', sans-serif;
+	font-weight: 600;
+	font-size: 25px;
+	font-style: italic;
+}
+
+.navbar-brand .navbar-toggler-icon .navbar-dark {
+	background-size: 100%;
+	padding-top: 10px;
+}
+ a.nav-link {
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	font-weight: 600;
+	font-size: 20px;
+	color: #ffffff;
+	padding-right: 100px;
+}
+
+.logo {
+  	height: 60px;
+}
+
+h1 {
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	font-weight: 700;
+	font-size: 40px;
+	color: #ffffff;
+	line-height: 50px;
+	padding-bottom: 10px;
+}
+
+h2 {
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	font-weight: 500;
+	font-size: 25px;
+	color: #ffffff;
+	line-height: 25px;
+	padding-bottom: 8px;
+}
+
+h3 {
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	font-weight: 500;
+	font-size: 25px;
+	color: #ffffff;
+	line-height: 30px;
+}
+
+h4 {
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	font-weight: 500;
+	font-size: 16px;
+	color: #ffffff;
+	line-height: 30px;
+}
+
+h5 {
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	font-weight: 500;
+	font-size: 16px;
+	color: #ffffff;
+	line-height: 30px;
+}
+
+.hr-2 {
+	width: 60%;
+	border-color: #000000;
+}
+
+.estilo {
+	font-style: italic
+}
+
+.negro {
+	color:  #000000;
+}
+
+.tamaño {
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	font-weight: 700;
+	font-size: 30px;
+}
+
+.parrafo {
+	font-family: 'Poppins', sans-serif;
+	display: block;
+	font-weight: 700;
+	font-size: 18px;
+	color:  #ffffff;
+	line-height: 20px;
+}
+
+.carousel-indicators li {
+	background-color: grey;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+}
+
+.carousel-indicators {
+	top: 250px;
+}
+
+.boton {
+	margin-top: 30px;
+}
+footer {
+	font-weight: 400;
+	text-align: center;
+	background: #660066;
+	vertical-align: center;
+	padding: 3.125rem;
+}
+
+a {
+	color: #ffffff;
+}
+
+.form-control {
+	max-width: 380px;
+	margin:  0 auto;
+}
+.icono {
+	font-size: 1rem;
+}
+@media (min-width: 768){
+	.icono{
+		font-size: 2rem;
+	}
+}
